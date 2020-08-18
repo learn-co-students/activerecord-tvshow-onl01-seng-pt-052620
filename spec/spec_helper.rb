@@ -11,4 +11,4 @@ RSpec.configure do |config|
     system("rake db:migrate")
   end
 
-end
+end 
